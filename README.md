@@ -27,9 +27,15 @@ Uses the following config:
 
 {
 "image_file": "/Users/dhananjaynarayanan/PycharmProjects/extractHorizon/test_images/mountain_jungle.jpeg", 
+
 "true_time": 60, 
+
 "threshold": 0.53, 
+
 "instrument_array": "piano_common, violin_common, viola_full", 
+
 "delay_vector": "0, 5, 10", 
+
 "cross_percentage": 0.75, 
+
 "scaling_factor": 0.2}
