@@ -22,7 +22,9 @@ pip install opencv-python numpy pydub moviepy matplotlib
 
 
 Example: https://youtu.be/vRM_7F1VZ04
+
 Uses the following config:
+
 {
 "image_file": "/Users/dhananjaynarayanan/PycharmProjects/extractHorizon/test_images/mountain_jungle.jpeg", 
 "true_time": 60, 
