@@ -5,6 +5,7 @@ To run:
 1. run create_UI.py
 2. Select your image and adjust parameters (if they're not self-explanatory, ask me what it means)It
 3. After completing the run it should generate a video with audio based on the height of the horizon at each point
+4. If you can figure out how to package this as an app to be an executable, i will buy you a coffee
 
 
 Example: https://youtu.be/vRM_7F1VZ04
