@@ -6,6 +6,11 @@ To run:
 2. Select your image and adjust parameters (if they're not self-explanatory, ask me what it means)It
 3. After completing the run it should generate a video with audio based on the height of the horizon at each point
 
+
+Example: https://youtu.be/vRM_7F1VZ04
+
+-------------------------------
+
 Required python libraries:
 - sys
 - json
@@ -20,6 +25,8 @@ This command should work to install them (if not, idk ask chatGPT)
 
 pip install opencv-python numpy pydub moviepy matplotlib
 
+
+--------------------------------------
 
 Example: https://youtu.be/vRM_7F1VZ04
 
